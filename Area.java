@@ -1,7 +1,7 @@
 //Java code to find area
 import java.util.Scanner;
 
-public class Main {
+public class Area {
     public static void main(String[] args){
         double height = 0;
         double width = 0;
